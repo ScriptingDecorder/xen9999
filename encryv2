@@ -1,5 +1,19 @@
--- made by tokyo#3030 and xen#9999
--- ENCRYPT V2 SOURCE CODE MADE BY xen#9999 DONT SKID
+-- xen9999 dont skid of my source sons
+rconsoleprint('@@RED@@')
+rconsoleprint('
+                                  ___                       _    __   _____ 
+                                  | __|_ _  __ _ _ _  _ _ __| |_  \ \ / /_  )
+                                  | _|| ' \/ _| '_| || | '_ \  _|  \ V / / / 
+                                  |___|_||_\__|_|  \_, | .__/\__|   \_/ /___|
+                                                    |__/|_|                   
+
+
+                                      made by xen#9999 . best internal
+                                                   
+  
+                                      
+')
+
 getgenv().xen9999 = { 
     Silent = {
         Enabled     = true,
